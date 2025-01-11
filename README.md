@@ -10,8 +10,6 @@
 
 Olá! Sou desenvolvedor com experiência no desenvolvimento full stack, trabalhando com tecnologias como Node.js, JavaScript, HTML, CSS e bancos de dados. Aqui, compartilho meus projetos pessoais, contribuições para open source e outras experiências práticas que demonstram minha habilidade em criar aplicações web modernas, escaláveis e de alta performance.
 
-Meus repositórios incluem exemplos de APIs RESTful, interfaces dinâmicas e interativas, bem como soluções para integrar e otimizar o uso de bancos de dados. Se você está interessado em colaborar ou discutir alguma das minhas implementações, sinta-se à vontade para abrir uma issue ou enviar um pull request!
-
 <div>
   <a href = "mailto:gustavosilvadosreiz64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/gustavo-reis-9a3646346" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
