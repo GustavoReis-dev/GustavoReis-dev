@@ -1,17 +1,60 @@
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Eai+de+boa+😜;+Meu+Nome+é+Gustavo+Reis!;" />
 
+## :man_technologist: Sobre mim
 
-# Olá! Eu sou o Gustavo Reis
-- 🥇A procura de um estágio na área de tecnologia
-- ✍Estudando: programação
-- 😀pronouns: ele⁄dele
-  
-## "Desenvolvedor Full Stack | Node.js | JavaScript | HTML | CSS | Banco de Dados"
+Sou um jovem desenvolvedor de 16 anos com 5 anos de experiência em programação. Apaixonado por tecnologia e sempre em busca de novos desafios!
 
-Olá! Sou desenvolvedor com experiência no desenvolvimento full stack, trabalhando com tecnologias como Node.js, JavaScript, HTML, CSS e bancos de dados. Aqui, compartilho meus projetos pessoais, contribuições para open source e outras experiências práticas que demonstram minha habilidade em criar aplicações web modernas, escaláveis e de alta performance.
+- :birthday: **Idade:** 16 anos
+- :rocket: **Experiência:** 5 anos programando
+- :earth_americas: **Localização:** Santo Andé, SP, Brasil
 
-<div>
-  <a href = "mailto:gustavosilvadosreiz64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/gustavo-reis-9a3646346" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="55119560373"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+ <hr/>
+ 
+<h2 align="center">⚒️ Habilidade/Linguagens ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,bots,lua" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql" /><br>
 </div>
+
+<br/>
+<hr/>
+
+
+## :bar_chart: Estatísticas do GitHub
+
+[![Estatísticas do GitHub de Gustavo Reis](https://github-readme-stats.vercel.app/api?username=GustavoReis-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## :top: Linguagens mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoReis-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## :rocket: Projetos em Destaque
+
+### [Nome do Projeto 1](link_do_projeto)
+Breve descrição do projeto e suas principais características.
+
+### [Nome do Projeto 2](link_do_projeto)
+Breve descrição do projeto e suas principais características.
+
+### [Nome do Projeto 3](link_do_projeto)
+Breve descrição do projeto e suas principais características.
+
+## :mailbox: Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/gustavo-reis-9a3646346/)
+- [Twitter](https://x.com/home?lang=pt)
+- [Instagram](https://www.instagram.com/gustavoslreis/)
+- [Discord](https://discord.gg/x3Ej2ax8q2)
+- Email: reizdevcontato@gmail.com
+
+## 👯 Procuro colaborar em
+
+- Projetos open-source relacionados a TI, COMPUTAÇÃO EM GERAL
+- Desenvolvimento de SITES, BOTS, APLICATIVOS
+
+---
+
+⭐️ De [Gustavo Reis](https://github.com/GustavoReis-dev)
